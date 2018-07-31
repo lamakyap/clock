@@ -1,0 +1,24 @@
+body {
+	font-size: 20px;
+	background-image: url(../img/lama.gif)
+	
+
+
+
+}
+
+#time {
+	color: green;
+	font-size: 5em;
+	height: 200px;
+	margin: auto;
+	text-align: center;
+
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+}
+*{
+	background-attachment: 
+	
+
+}
